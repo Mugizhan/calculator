@@ -42,7 +42,7 @@ function App() {
       </h1>
     <div className="bg-black w-screen flex">
       <div className=" text-white font-bold text-xl">
-        <form className='mt-52 ml-5 md:mt-10 md:ml-96'>
+        <form className='mt-40 ml-5 md:mt-10 md:ml-96'>
           <div className=' h-48 flex justify-end flex flex-col gap-3'>
             
             <h1 className='text-4xl   flex justify-end '>{Result}</h1>
